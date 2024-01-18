@@ -1,2 +1,21 @@
 # CarDekho-MySQL-Analysis
-Explore second-hand car market trends with CarDekho-MySQL-Analysis. This project uses MySQL for dataset analysis, answering key questions with 11 SQL queries. Dive into pricing insights, popular models, and more. Contribute, report issues, or run queries locally to gain valuable car market insights.
+
+Welcome to the CarDekho MySQL Analysis project! This repository focuses on analyzing a dataset of second-hand cars from CarDekho using MySQL. We have organized the SQL queries into two sections: "Questions" and "Solved Queries."
+
+### Key Features
+- **Dataset Analysis:** Explore details of second-hand cars, including make, model, year, mileage, and price.
+- **SQL Queries:** Gain insights through 11 queries, covering pricing trends, popular models, and more.
+- **Data Source:** The dataset is obtained from " https://www.youtube.com/watch?v=O7GXjLNo_m8 " Youtube Channel,  and provides a rich source for our analyses.
+
+
+### Usage Instructions
+To run the project locally, follow these steps:
+1. Set up your MySQL database.
+2. Download and import the dataset to mysql.
+3. Run the provided SQL queries.
+
+
+## Technologies Used
+- MySQL for database management
+
+Feel free to contribute, report issues, or suggest improvements. Happy analyzing!
